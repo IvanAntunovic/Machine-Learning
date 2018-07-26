@@ -1,2 +1,3 @@
 Implementation of Neural Network in Python.
-2 layers, with sigmoid as activation function
+1 hidden, with sigmoid as activation function.
+Hinge loss function used.
